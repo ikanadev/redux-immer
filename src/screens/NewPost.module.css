@@ -1,0 +1,15 @@
+.root {
+  width: 800px;
+  margin: 100px auto;
+  display: flex;
+}
+.root div {
+  flex: 1;
+  margin-left: 12px;
+}
+.root div input {
+  width: 100%;
+}
+.root div textarea {
+  width: 100%;
+}

@@ -1,0 +1,13 @@
+.root {
+  width: 800px;
+  margin: 100px auto;
+  display: flex;
+  flex-direction: column;
+}
+.root > h1, .root > h2 {
+  text-align: center;
+  margin-bottom: 28px;
+  color: #28ACD7;
+}
+
+
